@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+
+# Project-specific directories (generated at runtime)
+videos/
+frames/
+.chroma/
+
+# Streamlit cache
+.streamlit/
+
+# macOS
+.DS_Store
